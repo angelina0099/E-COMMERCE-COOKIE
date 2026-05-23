@@ -1,2 +1,1 @@
-# COOKIE
-Modern and responsive e-commerce web application built with a clean UI/UX design. Features product listing, shopping cart, user authentication, category filtering, and dynamic pages. Designed to deliver a smooth online shopping experience while showcasing front-end and web development skills.
+Modern e-commerce management platform with a complete admin dashboard. Features product, order, and user management, analytics charts, sales monitoring, and platform control tools. Built to provide an efficient and responsive experience for both customers and administrators.
